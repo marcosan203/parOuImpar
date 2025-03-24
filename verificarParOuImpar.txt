@@ -1,0 +1,16 @@
+Inserir todo o conhecimento necessário
+Declarar as variáveis
+	inteiro parOuimpar
+Solicitar ao usuário a informação de um úmero inteiro 
+Coletar o número informado
+Armazenar o numero coletado na variável parOuImpar
+
+Dividir o numero parOuImpar por 2
+
+Verificar se o resto.
+Se o resto seja igual a zero (informar que o numero é par)
+Se não se o numero for diferente de zero (informar que o numero é impar)
+
+encerrar o aplicativo
+
+
